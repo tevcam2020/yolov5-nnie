@@ -3,7 +3,7 @@
 
 #include <vector>
 #include <iostream>
-#include "nnie_sdk.h"
+//#include "nnie_sdk.h"
 #include <opencv2/opencv.hpp>
 
 struct BoxInfo
