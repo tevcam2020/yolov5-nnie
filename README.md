@@ -37,5 +37,5 @@ VOC2007 Test:
 ![image](./data/wechat.jpeg)
 
 
-商务合作联系：tevcam2020@163.com
+商务合作联系：perry@tevcam.com, pugss@tevcam.com
 
